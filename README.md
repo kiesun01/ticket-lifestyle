@@ -2,7 +2,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle </h1>
-Ticket lifecycle for the open-source help desk ticketing system osTicket.<br />
+This repository offers a detailed guide on the lifecycle of tickets within the osTicket help desk system. It encompasses the entire ticket process, from creation to resolution, which includes:<br />
 <br />
 Part 1: Ticket Creation (2 steps) <br />
 Part 2: Answering tickets and troubleshooting Permissions (8 steps)<br />
@@ -12,10 +12,10 @@ Part 3: Assigning, escalating, and closing tickets (8 steps)<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
+- Microsoft Azure: Utilized for Virtual Machines and compute resources
+- Remote Desktop: For managing and accessing the virtual machines.
+- Internet Information Services (IIS): Acts as the web server hosting osTicket.
+  
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
@@ -31,5 +31,11 @@ Part 3: Assigning, escalating, and closing tickets (8 steps)<br />
 - Install osTicket
 - Assigning Permissions
 - osTicket
-- Chief User: james
-- Agents: jane.doe and jon.doe
+- Supreme Admin: jerry
+- Agents: cameron.jones and jane.doe
+
+
+
+<h2>Part 1 (Ticket Creation) Steps: 1 - 2 </h2>
+
+
