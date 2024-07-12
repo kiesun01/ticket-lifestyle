@@ -38,4 +38,7 @@ Part 3: Assigning, escalating, and closing tickets (8 steps)<br />
 
 <h2>Part 1 (Ticket Creation) Steps: 1 - 2 </h2>
 
-
+<p>
+Step 1: Click open a New Ticket
+</p>
+<br />
